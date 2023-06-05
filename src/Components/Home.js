@@ -1,18 +1,18 @@
 import React from 'react'
-import "./Style/Home.css"
+import classes from "./Style/Home.module.css"
+import Buttons from './Buttons'
 
 function Home() {
+    const buttons = ["C", "9", "/", "8", "7", "6", "*", "5", "4", "3", "+", "2", "1", "0", "-", ".", "Del", "="]
     return (
-        <div className='home'>
-            <div className='inner'>
-                <div className='display'>
-                    <div className='result'>
-1
-                    </div>
+        <div className={classes.home}>
+            <div className={classes.inner}>
+                <div className={classes.display}>
+                    <div className={classes.result}>1</div>
                 </div>
-            </div>
-            <div className='lower'>
-
+                <div className={classes.lower}>
+                    {buttons.map((element, index) => { return <Buttons key={index} value={element} /> })}
+                </div>
             </div>
         </div>
     )
