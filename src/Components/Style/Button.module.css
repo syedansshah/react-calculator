@@ -10,3 +10,8 @@
     user-select: none;
     box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff; 
 }
+
+.result{
+   background-color: #d7750b;
+    width: 180px;
+}

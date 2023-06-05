@@ -3,7 +3,7 @@ import classes from './Style/Button.module.css'
 
 function Buttons({value}) {
   return (
-    <div className={classes.buttons}>{value}</div>
+    <div className={value==="C" ||  value==="=" ? `${classes.buttons} ${classes.result}` : `${classes.buttons}` }>{value}</div>
   )
 }
 
