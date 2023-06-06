@@ -68,9 +68,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-# react-birthday-reminder
-- This is a react project for birhtday reminder
-- I have created this React Project to Check Upcoming birthdays and wish them properly.
+# react-calculator
+- This is a react project for Basic calculator operations
 - Project is made with React.JS
 - Project is created by Syed Ans Shah ( `https://github.com/syedansshah` ) 
 
@@ -117,17 +116,17 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/syedansshah/react-birthday-reminder.git
+   git clone https://github.com/syedansshah/react-calculator.git
    ```
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+<!-- 4. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
-   ```
-5. Start the Portal
+   ``` -->
+4. Start the Portal
   ```sh
    npm start
    ```
@@ -152,13 +151,16 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [x] Add Changelog
 - [x] Add back to top links
+- [ ] Add Scientific Calculator UI
+- [ ] Add Scientific Calculator Operations 
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Spanish
+    - [ ] Arabic
 
-See the [open issues](https://github.com/syedansshah/react-birthday-reminder/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/syedansshah/react-calculator/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -196,7 +198,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Syed Ans Shah- [@SyedAnsShah1](https://www.linkedin.com/in/syed-ans-shah/) - reach.syedanasshah@gmail.com
 
-Project Link: [https://github.com/syedansshah/react-birthday-reminder](https://github.com/syedansshah/react-birthday-reminder)
+Project Link: [https://github.com/syedansshah/react-calculator](https://github.com/syedansshah/react-calculator)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
