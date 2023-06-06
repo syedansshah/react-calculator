@@ -1,11 +1,11 @@
 
 <a name="readme-top"></a>
-
+<!-- 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url] -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -210,13 +210,8 @@ Project Link: [https://github.com/syedansshah/react-calculator](https://github.c
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
+* [Udemy course] (https://www.udemy.com/share/106GNw3@hJRly_htUWCUFCaA_bYGRBnG6pbH7u5-NfyuL-LoWjKNbR8sXJnZsDR11zKmlV2WIw==/)
 * [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
