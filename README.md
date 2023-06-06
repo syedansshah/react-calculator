@@ -196,10 +196,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Syed Ans Shah-  [reach.syedanasshah@gmail.com](reach.syedanasshah@gmail.com)
-LinkedIn: [https://www.linkedin.com/in/syed-ans-shah/](https://www.linkedin.com/in/syed-ans-shah/)
-Twitter: [@SyedAnsShah1](https://twitter.com/SyedAnsShah1)
-Project Link: [https://github.com/syedansshah/react-calculator](https://github.com/syedansshah/react-calculator)
+- Syed Ans Shah-  [reach.syedanasshah@gmail.com](reach.syedanasshah@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/syed-ans-shah/](https://www.linkedin.com/in/syed-ans-shah/)
+- Twitter: [@SyedAnsShah1](https://twitter.com/SyedAnsShah1)
+- Project Link: [https://github.com/syedansshah/react-calculator](https://github.com/syedansshah/react-calculator)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
