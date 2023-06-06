@@ -87,7 +87,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- * [![Next][Next.js]][Next-url] -->
 * [![React][React.js]][React-url]
 * JavaScript
-* Material UI
+* CSS
 <!-- * [![Svelte][Svelte.dev]][Svelte-url] -->
 <!-- * [![Bootstrap][Bootstrap.com]][Bootstrap-url] -->
 
